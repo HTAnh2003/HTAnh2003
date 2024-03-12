@@ -10,4 +10,6 @@
 HTAnh2003/HTAnh2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Uploading image.png…]()
+![image](https://github.com/HTAnh2003/HTAnh2003/assets/129145008/c6f52684-df97-44f1-a461-8b303cca85f1)
+
+
