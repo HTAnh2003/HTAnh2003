@@ -10,4 +10,4 @@
 
 ⚡ Sự thú vị: Tôi thích chơi bóng đá
 
-<img src="https://github.com/HTAnh2003/HTAnh2003/assets/129145008/c6f52684-df97-44f1-a461-8b303cca85f1" width="200" />
+<img src="https://github.com/HTAnh2003/HTAnh2003/assets/129145008/c6f52684-df97-44f1-a461-8b303cca85f1" width="400" />
