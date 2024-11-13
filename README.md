@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm @HTAnh2003 (Hoàng Tiến Anh)</h1>
+<h1 align="center">Hi 👋, I'm @HTAnh2003 (Hoàng Tiến Anh)<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/></h1>
 <h3 align="center">A Data Science Student Exploring Artificial Intelligence, Machine Learning, and Deep Learning</h3>
 
 - 🌱 I’m currently studying **Data Science at the Industrial University of Ho Chi Minh City**
@@ -30,3 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="o" /></p>
 <!-- <img src="https://github.com/HTAnh2003/HTAnh2003/assets/129145008/c6f52684-df97-44f1-a461-8b303cca85f1" width="400" /> -->
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" />
+</div>
+
+
