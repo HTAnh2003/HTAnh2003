@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Github!;%F0%9F%93%8A+Data+Scientist+%7C+%F0%9F%A4%96+AI+Engineer+;%F0%9F%93%9A+AI+Researcher)](https://git.io/typing-svg)
+
+</div>
+
 <h1 align="center">Hi 👋, I'm @HTAnh2003 (Hoàng Tiến Anh)</h1>
 <h3 align="center">A Data Science Student Exploring Artificial Intelligence, Machine Learning, and Deep Learning</h3>
 
