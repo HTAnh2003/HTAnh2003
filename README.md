@@ -27,8 +27,8 @@
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?prussian)
 
-<h3 align="left">Support:</h3>
-<p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="o" /></p>
+<!-- <h3 align="left">Support:</h3>
+<p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="o" /></p> -->
 <!-- <img src="https://github.com/HTAnh2003/HTAnh2003/assets/129145008/c6f52684-df97-44f1-a461-8b303cca85f1" width="400" /> -->
 <div align="right">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" />
